@@ -1,0 +1,14 @@
+C:\Users\delar\OneDrive\Desktop\GitC#\Classmapp2202141742\Classmapp2202141742\obj\Debug\net8.0\Classmapp2202141742.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\delar\OneDrive\Desktop\GitC#\Classmapp2202141742\Classmapp2202141742\obj\Debug\net8.0\Classmapp2202141742.AssemblyInfoInputs.cache
+C:\Users\delar\OneDrive\Desktop\GitC#\Classmapp2202141742\Classmapp2202141742\obj\Debug\net8.0\Classmapp2202141742.AssemblyInfo.cs
+C:\Users\delar\OneDrive\Desktop\GitC#\Classmapp2202141742\Classmapp2202141742\obj\Debug\net8.0\Classmapp2202141742.csproj.CoreCompileInputs.cache
+C:\Users\delar\OneDrive\Desktop\GitC#\Classmapp2202141742\Classmapp2202141742\bin\Debug\net8.0\Classmapp2202141742.exe
+C:\Users\delar\OneDrive\Desktop\GitC#\Classmapp2202141742\Classmapp2202141742\bin\Debug\net8.0\Classmapp2202141742.deps.json
+C:\Users\delar\OneDrive\Desktop\GitC#\Classmapp2202141742\Classmapp2202141742\bin\Debug\net8.0\Classmapp2202141742.runtimeconfig.json
+C:\Users\delar\OneDrive\Desktop\GitC#\Classmapp2202141742\Classmapp2202141742\bin\Debug\net8.0\Classmapp2202141742.dll
+C:\Users\delar\OneDrive\Desktop\GitC#\Classmapp2202141742\Classmapp2202141742\bin\Debug\net8.0\Classmapp2202141742.pdb
+C:\Users\delar\OneDrive\Desktop\GitC#\Classmapp2202141742\Classmapp2202141742\obj\Debug\net8.0\Classmapp2202141742.dll
+C:\Users\delar\OneDrive\Desktop\GitC#\Classmapp2202141742\Classmapp2202141742\obj\Debug\net8.0\refint\Classmapp2202141742.dll
+C:\Users\delar\OneDrive\Desktop\GitC#\Classmapp2202141742\Classmapp2202141742\obj\Debug\net8.0\Classmapp2202141742.pdb
+C:\Users\delar\OneDrive\Desktop\GitC#\Classmapp2202141742\Classmapp2202141742\obj\Debug\net8.0\Classmapp2202141742.genruntimeconfig.cache
+C:\Users\delar\OneDrive\Desktop\GitC#\Classmapp2202141742\Classmapp2202141742\obj\Debug\net8.0\ref\Classmapp2202141742.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Classmapp2202141742/1.0.0": {
+        "runtime": {
+          "Classmapp2202141742.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Classmapp2202141742/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
