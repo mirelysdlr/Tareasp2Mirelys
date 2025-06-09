@@ -1,0 +1,6 @@
+@OrganizadordeevntosMirelys_HostAddress = http://localhost:5211
+
+GET {{OrganizadordeevntosMirelys_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
